@@ -1,0 +1,10 @@
+h7\foc_model_data.o: ..\MATLAB\FOC_Model_data.c
+h7\foc_model_data.o: ..\MATLAB\FOC_Model.h
+h7\foc_model_data.o: ..\MATLAB\rtwtypes.h
+h7\foc_model_data.o: ..\MATLAB\rt_nonfinite.h
+h7\foc_model_data.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+h7\foc_model_data.o: ..\MATLAB\FOC_Model_types.h
+h7\foc_model_data.o: ..\MATLAB\idq_Controller.h
+h7\foc_model_data.o: ..\MATLAB\FLUX_OB.h
+h7\foc_model_data.o: ..\MATLAB\rtGetNaN.h
+h7\foc_model_data.o: ..\MATLAB\SMO_LPF.h

@@ -1,0 +1,12 @@
+h7\idq_controller.o: ..\MATLAB\idq_Controller.c
+h7\idq_controller.o: ..\MATLAB\rtwtypes.h
+h7\idq_controller.o: ..\MATLAB\idq_Controller.h
+h7\idq_controller.o: ..\MATLAB\rt_nonfinite.h
+h7\idq_controller.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+h7\idq_controller.o: ..\MATLAB\FOC_Model_private.h
+h7\idq_controller.o: ..\MATLAB\FOC_Model.h
+h7\idq_controller.o: ..\MATLAB\FOC_Model_types.h
+h7\idq_controller.o: ..\MATLAB\FLUX_OB.h
+h7\idq_controller.o: ..\MATLAB\rtGetNaN.h
+h7\idq_controller.o: ..\MATLAB\SMO_LPF.h
+h7\idq_controller.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
