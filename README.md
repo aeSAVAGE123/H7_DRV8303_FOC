@@ -1,0 +1,2 @@
+# H7_DRV8303_FOC
+使用STM32H743IIT6作为控制器，DRV8303作为预驱芯片，并使用simulink转FOC代码，实现开环控制
